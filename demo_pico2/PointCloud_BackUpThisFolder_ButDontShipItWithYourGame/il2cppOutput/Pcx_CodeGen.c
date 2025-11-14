@@ -1,0 +1,102 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m78537E55D51A492A5BB187FBFEE5D574225D8286 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m54C9CFD918327D036A29F37C74153610EF5EFDF3 (void);
+extern void BakedPointCloud_get_pointCount_m430AB963F27F91D61DC2CBD6DEDDA418D96927BF (void);
+extern void BakedPointCloud_get_positionMap_mD26E4421A9D6184BDB663E22182E81E0E769866F (void);
+extern void BakedPointCloud_get_colorMap_m726A66DF38215D2030A5ED2A56B08B6B102836E0 (void);
+extern void BakedPointCloud__ctor_m33F1A10789C649366A2542C47022DED8667092CF (void);
+extern void PointCloudData_get_pointCount_mFEE29F954CE3E01B3BCC4CB6FD1B2954F0C67FD1 (void);
+extern void PointCloudData_get_computeBuffer_m606408375842416A9C0621D589AB6391EABA051D (void);
+extern void PointCloudData_OnDisable_m7070506B6005D19501B99AACAFF617EC1CD1F59D (void);
+extern void PointCloudData__ctor_m20DEB600901546F13EC9E0FAC3FC0F47295671F9 (void);
+extern void PointCloudRenderer_get_sourceData_mA59F160542E024177E76D927A295DE133DF017A7 (void);
+extern void PointCloudRenderer_set_sourceData_m02DE64F7F50AEBE74478C500CD9D68AD3D72D62B (void);
+extern void PointCloudRenderer_get_pointTint_mDF4852145BEC4FA85FB8DF2BF37A38CFC1E7C21E (void);
+extern void PointCloudRenderer_set_pointTint_m2F3029A3B03FC91D4C1DC4E1A01B34F952C3B952 (void);
+extern void PointCloudRenderer_get_pointSize_m91D5C15B49DE39BCDF16F8A0A1B710C3189243E7 (void);
+extern void PointCloudRenderer_set_pointSize_m1BB040E458548B5190445A0713C9C07024C8DFC0 (void);
+extern void PointCloudRenderer_get_sourceBuffer_m2A6EA47986052AC0DD502F5843AA61B9210BEFFA (void);
+extern void PointCloudRenderer_set_sourceBuffer_m2A552DF1403E78E19BAA1D0F3DE828D0C018D566 (void);
+extern void PointCloudRenderer_OnValidate_m031EC56F2E6C65FBEA61E4DD85A6A0F77B0B60F3 (void);
+extern void PointCloudRenderer_OnDestroy_m7341C40BED09C134448127874169FC5EF2344AE7 (void);
+extern void PointCloudRenderer_OnRenderObject_mCF4DE6B856BF7CF1752720ABDD08527B4DAE2CC5 (void);
+extern void PointCloudRenderer__ctor_mA48285978FD876828D5F56794BBB149458B1D9DB (void);
+static Il2CppMethodPointer s_methodPointers[22] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m78537E55D51A492A5BB187FBFEE5D574225D8286,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m54C9CFD918327D036A29F37C74153610EF5EFDF3,
+	BakedPointCloud_get_pointCount_m430AB963F27F91D61DC2CBD6DEDDA418D96927BF,
+	BakedPointCloud_get_positionMap_mD26E4421A9D6184BDB663E22182E81E0E769866F,
+	BakedPointCloud_get_colorMap_m726A66DF38215D2030A5ED2A56B08B6B102836E0,
+	BakedPointCloud__ctor_m33F1A10789C649366A2542C47022DED8667092CF,
+	PointCloudData_get_pointCount_mFEE29F954CE3E01B3BCC4CB6FD1B2954F0C67FD1,
+	PointCloudData_get_computeBuffer_m606408375842416A9C0621D589AB6391EABA051D,
+	PointCloudData_OnDisable_m7070506B6005D19501B99AACAFF617EC1CD1F59D,
+	PointCloudData__ctor_m20DEB600901546F13EC9E0FAC3FC0F47295671F9,
+	PointCloudRenderer_get_sourceData_mA59F160542E024177E76D927A295DE133DF017A7,
+	PointCloudRenderer_set_sourceData_m02DE64F7F50AEBE74478C500CD9D68AD3D72D62B,
+	PointCloudRenderer_get_pointTint_mDF4852145BEC4FA85FB8DF2BF37A38CFC1E7C21E,
+	PointCloudRenderer_set_pointTint_m2F3029A3B03FC91D4C1DC4E1A01B34F952C3B952,
+	PointCloudRenderer_get_pointSize_m91D5C15B49DE39BCDF16F8A0A1B710C3189243E7,
+	PointCloudRenderer_set_pointSize_m1BB040E458548B5190445A0713C9C07024C8DFC0,
+	PointCloudRenderer_get_sourceBuffer_m2A6EA47986052AC0DD502F5843AA61B9210BEFFA,
+	PointCloudRenderer_set_sourceBuffer_m2A552DF1403E78E19BAA1D0F3DE828D0C018D566,
+	PointCloudRenderer_OnValidate_m031EC56F2E6C65FBEA61E4DD85A6A0F77B0B60F3,
+	PointCloudRenderer_OnDestroy_m7341C40BED09C134448127874169FC5EF2344AE7,
+	PointCloudRenderer_OnRenderObject_mCF4DE6B856BF7CF1752720ABDD08527B4DAE2CC5,
+	PointCloudRenderer__ctor_mA48285978FD876828D5F56794BBB149458B1D9DB,
+};
+static const int32_t s_InvokerIndices[22] = 
+{
+	19697,
+	11624,
+	11383,
+	11439,
+	11439,
+	11624,
+	11383,
+	11439,
+	11624,
+	11624,
+	11439,
+	9031,
+	11280,
+	8872,
+	11533,
+	9120,
+	11439,
+	9031,
+	11624,
+	11624,
+	11624,
+	11624,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Pcx_CodeGenModule;
+const Il2CppCodeGenModule g_Pcx_CodeGenModule = 
+{
+	"Pcx.dll",
+	22,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
